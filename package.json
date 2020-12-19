@@ -78,7 +78,7 @@
     "form-urlencoded": "^4.2.1",
     "http-proxy": "^1.18.0",
     "ioredis": "^4.19.4",
-    "ioredis-mock": "^4.21.8",
+    "ioredis-mock": "^5.2.0",
     "js-yaml": "^3.14.1",
     "json-schema-merge-allof": "^0.6.0",
     "json-schema-ref-parser": "^9.0.6",
