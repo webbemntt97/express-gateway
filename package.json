@@ -103,7 +103,7 @@
     "uuid62": "1.0.1",
     "vhost": "3.0.2",
     "winston": "3.3.3",
-    "yargs": "^14.2.3",
+    "yargs": "^16.2.0",
     "yawn-yaml": "1.4.0",
     "yeoman-environment": "^2.10.3",
     "yeoman-generator": "^4.12.0"
