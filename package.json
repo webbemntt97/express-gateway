@@ -134,7 +134,7 @@
     "supertest": "^4.0.2",
     "supertest-session": "^4.1.0",
     "tmp": "^0.1.0",
-    "yeoman-test": "^3.0.0"
+    "yeoman-test": "^5.1.0"
   },
   "yargs": {
     "boolean-negation": false
